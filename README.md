@@ -4,7 +4,6 @@ Plant Disease Prediction Webpage
 
 LeafLens is a web-based application that detects plant diseases by analyzing uploaded images of defective leaves. Using cutting-edge machine learning models, LeafLens helps farmers and gardeners identify plant diseases early, improving plant health and yield.
 
-![LeafLens Screenshot](./assets/leaflens-screenshot.png) <!-- Replace with your actual image path -->
 
 ---
 
@@ -28,13 +27,10 @@ LeafLens is a web-based application that detects plant diseases by analyzing upl
 
 ---
 
-## 📸 Demo
-![LeafLens Demo GIF](./assets/leaflens-demo.gif) <!-- Optional: Replace with an animated demo -->
 
----
 ## Screenshots
 
-![App Screenshot]((https://github.com/user-attachments/assets/4dca6335-4d7a-40a7-9834-d7e83af285f8))
+![App Screenshot](![Image](https://github.com/user-attachments/assets/4dca6335-4d7a-40a7-9834-d7e83af285f8))
 
 ##  Installation
 
