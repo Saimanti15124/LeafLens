@@ -36,7 +36,7 @@ LeafLens is a web-based application that detects plant diseases by analyzing upl
 ##  Installation
 
 ### 1. Clone the repository ```bash
-  git clone https://github.com/your-username/leaflens.git
+  git clone https://github.com/Saimanti15124/LeafLens.git
   cd leaflens
 ### 2. Set up a virtual environment ```bash # For Windows
   python -m venv venv
