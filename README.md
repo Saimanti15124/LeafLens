@@ -30,7 +30,14 @@ LeafLens is a web-based application that detects plant diseases by analyzing upl
 
 ## Screenshots
 
-![App Screenshot](![Image](https://github.com/user-attachments/assets/4dca6335-4d7a-40a7-9834-d7e83af285f8))
+![WhatsApp Image 2025-03-26 at 23 45 53_8975bd96](https://github.com/user-attachments/assets/a90d6edc-df8e-45a9-b2bc-bd7242742d99)
+
+![WhatsApp Image 2025-03-26 at 23 45 53_8cfc8471](https://github.com/user-attachments/assets/a6aa4fc0-8f96-4fa9-bfbd-e2642aa48479)
+![WhatsApp Image 2025-03-26 at 23 45 53_d5df2b04](https://github.com/user-attachments/assets/235d3771-e127-4e2a-b1be-70b5c2c5942f)
+![WhatsApp Image 2025-03-26 at 23 45 53_4ae431ec](https://github.com/user-attachments/assets/ecc20937-4868-4458-9f23-5146d270a45b)
+
+
+
 
 ##  Installation
 
