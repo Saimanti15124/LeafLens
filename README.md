@@ -19,7 +19,7 @@ LeafLens is a web-based application that detects plant diseases by analyzing upl
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Flask (Python)
 - **Machine Learning Model:** CNN 
 - **Database:** SQLite (for user history and feedback)
